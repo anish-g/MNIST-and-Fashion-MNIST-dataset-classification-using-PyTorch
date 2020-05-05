@@ -1,4 +1,4 @@
-# MNIST Dataset Classification using PyTorch
+# MNIST and Fashion-MNIST Dataset Classification using PyTorch
 
 Respective Python notebook contains step-by-step code with explanations.
 
